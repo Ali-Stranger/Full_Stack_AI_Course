@@ -6,3 +6,4 @@ print("mid here")
 for i in s:
     print(i)
 print("close here")        
+

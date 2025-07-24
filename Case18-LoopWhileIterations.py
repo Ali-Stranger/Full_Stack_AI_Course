@@ -65,7 +65,7 @@ for x in language:
 
 #Example: Loop Through a String
 
-    languages = ['Swift', 'Python', 'Go', 'C++']
+languages = ['Swift', 'Python', 'Go', 'C++']
 
 for lang in languages:
     if lang == 'Go':
@@ -80,7 +80,7 @@ for i in range(0, 4):
 
 #The break Statement
 
-    languages = ['Swift', 'Python', 'Go', 'C++']
+languages = ['Swift', 'Python', 'Go', 'C++']
 
 for lang in languages:
     if lang == 'Go':
@@ -90,7 +90,7 @@ for lang in languages:
 
 #The continue Statement
 
-    languages = ['Swift', 'Python', 'Go', 'C++']
+languages = ['Swift', 'Python', 'Go', 'C++']
 
 for lang in languages:
     if lang == 'Go':
